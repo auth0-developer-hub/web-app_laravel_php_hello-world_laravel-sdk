@@ -9,7 +9,7 @@
             <br>
             <br>
             <span>
-                <strong>Only authenticated users should access this page.</strong>
+                <strong>Only authenticated users can access this page.</strong>
             </span>
         </p>
         <x-code-snippet title="Protected Message" code="{{ json_encode($message->toArray(), \JSON_PRETTY_PRINT) }}" />

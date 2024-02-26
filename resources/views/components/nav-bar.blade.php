@@ -12,14 +12,17 @@
             <a href="{{ route('public', [], false) }}" class="nav-bar__tab">
                 Public
             </a>
+            @if (isset($isAuthenticated) && $isAuthenticated)
             <a href="{{ route('protected', [], false) }}" class="nav-bar__tab">
                 Protected
             </a>
             <a href="{{ route('admin', [], false) }}" class="nav-bar__tab">
                 Admin
             </a>
+            @endif
         </div>
-        <div class="nav-bar__actions">
+        <div class="nav-bar__buttons">
+            <x-authentication-buttons />
         </div>
     </nav>
 </div>

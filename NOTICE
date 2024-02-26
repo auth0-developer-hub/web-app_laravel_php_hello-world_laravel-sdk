@@ -45,58 +45,61 @@ ________________________________________________________________________________
 
 ================================================================================
 
-- @esbuild/aix-ppc64 (0.19.11) [MIT]
-- @esbuild/android-arm (0.19.11) [MIT, BSD-3-Clause]
-- @esbuild/android-arm64 (0.19.11) [MIT]
-- @esbuild/android-x64 (0.19.11) [MIT, BSD-3-Clause]
-- @esbuild/darwin-arm64 (0.19.11) [MIT]
-- @esbuild/darwin-x64 (0.19.11) [MIT]
-- @esbuild/freebsd-arm64 (0.19.11) [MIT]
-- @esbuild/freebsd-x64 (0.19.11) [MIT]
-- @esbuild/linux-arm (0.19.11) [MIT]
-- @esbuild/linux-arm64 (0.19.11) [MIT]
-- @esbuild/linux-ia32 (0.19.11) [MIT]
-- @esbuild/linux-loong64 (0.19.11) [MIT]
-- @esbuild/linux-mips64el (0.19.11) [MIT]
-- @esbuild/linux-ppc64 (0.19.11) [MIT]
-- @esbuild/linux-riscv64 (0.19.11) [MIT]
-- @esbuild/linux-s390x (0.19.11) [MIT]
-- @esbuild/linux-x64 (0.19.11) [MIT]
-- @esbuild/netbsd-x64 (0.19.11) [MIT]
-- @esbuild/openbsd-x64 (0.19.11) [MIT]
-- @esbuild/sunos-x64 (0.19.11) [MIT]
-- @esbuild/win32-arm64 (0.19.11) [MIT]
-- @esbuild/win32-ia32 (0.19.11) [MIT]
-- @esbuild/win32-x64 (0.19.11) [MIT]
-- @rollup/rollup-android-arm-eabi (4.9.4) [MIT]
-- @rollup/rollup-android-arm64 (4.9.4) [MIT]
-- @rollup/rollup-darwin-arm64 (4.9.4) [MIT]
-- @rollup/rollup-darwin-x64 (4.9.4) [MIT]
-- @rollup/rollup-linux-arm-gnueabihf (4.9.4) [MIT]
-- @rollup/rollup-linux-arm64-gnu (4.9.4) [MIT]
-- @rollup/rollup-linux-arm64-musl (4.9.4) [MIT]
-- @rollup/rollup-linux-riscv64-gnu (4.9.4) [MIT]
-- @rollup/rollup-linux-x64-gnu (4.9.4) [MIT]
-- @rollup/rollup-linux-x64-musl (4.9.4) [MIT]
-- @rollup/rollup-win32-arm64-msvc (4.9.4) [MIT]
-- @rollup/rollup-win32-ia32-msvc (4.9.4) [MIT]
-- @rollup/rollup-win32-x64-msvc (4.9.4) [MIT]
+- @esbuild/aix-ppc64 (0.19.12) [MIT]
+- @esbuild/android-arm (0.19.12) [MIT, BSD-3-Clause]
+- @esbuild/android-arm64 (0.19.12) [MIT]
+- @esbuild/android-x64 (0.19.12) [MIT, BSD-3-Clause]
+- @esbuild/darwin-arm64 (0.19.12) [MIT]
+- @esbuild/darwin-x64 (0.19.12) [MIT]
+- @esbuild/freebsd-arm64 (0.19.12) [MIT]
+- @esbuild/freebsd-x64 (0.19.12) [MIT]
+- @esbuild/linux-arm (0.19.12) [MIT]
+- @esbuild/linux-arm64 (0.19.12) [MIT]
+- @esbuild/linux-ia32 (0.19.12) [MIT]
+- @esbuild/linux-loong64 (0.19.12) [MIT]
+- @esbuild/linux-mips64el (0.19.12) [MIT]
+- @esbuild/linux-ppc64 (0.19.12) [MIT]
+- @esbuild/linux-riscv64 (0.19.12) [MIT]
+- @esbuild/linux-s390x (0.19.12) [MIT]
+- @esbuild/linux-x64 (0.19.12) [MIT]
+- @esbuild/netbsd-x64 (0.19.12) [MIT]
+- @esbuild/openbsd-x64 (0.19.12) [MIT]
+- @esbuild/sunos-x64 (0.19.12) [MIT]
+- @esbuild/win32-arm64 (0.19.12) [MIT]
+- @esbuild/win32-ia32 (0.19.12) [MIT]
+- @esbuild/win32-x64 (0.19.12) [MIT]
+- @rollup/rollup-android-arm-eabi (4.9.6) [MIT]
+- @rollup/rollup-android-arm64 (4.9.6) [MIT]
+- @rollup/rollup-darwin-arm64 (4.9.6) [MIT]
+- @rollup/rollup-darwin-x64 (4.9.6) [MIT]
+- @rollup/rollup-linux-arm-gnueabihf (4.9.6) [MIT]
+- @rollup/rollup-linux-arm64-gnu (4.9.6) [MIT]
+- @rollup/rollup-linux-arm64-musl (4.9.6) [MIT]
+- @rollup/rollup-linux-riscv64-gnu (4.9.6) [MIT]
+- @rollup/rollup-linux-x64-gnu (4.9.6) [MIT]
+- @rollup/rollup-linux-x64-musl (4.9.6) [MIT]
+- @rollup/rollup-win32-arm64-msvc (4.9.6) [MIT]
+- @rollup/rollup-win32-ia32-msvc (4.9.6) [MIT]
+- @rollup/rollup-win32-x64-msvc (4.9.6) [MIT]
 - @types/estree (1.0.5) [MIT]
 - asynckit (0.4.0) [MIT]
-- axios (1.6.5) [MIT]
+- auth0/auth0-php (8.11.1) [MIT]
+- auth0/login (7.12.0) [MIT]
+- axios (1.6.6) [MIT]
 - brick/math (0.11.0) [MIT]
 - carbonphp/carbon-doctrine-types (2.1.0) [MIT]
 - combined-stream (1.0.8) [MIT]
+- composer/semver (3.4.0) [MIT]
 - delayed-stream (1.0.0) [MIT]
 - dflydev/dot-access-data (v3.0.2) [MIT]
 - doctrine/inflector (2.0.9) [MIT]
 - doctrine/lexer (3.0.0) [MIT]
 - dragonmantank/cron-expression (v3.3.3) [MIT]
 - egulias/email-validator (4.0.2) [MIT]
-- esbuild (0.19.11) [MIT]
+- esbuild (0.19.12) [MIT]
 - fakerphp/faker (v1.23.1) [CC-BY-SA-3.0, public-domain, MIT, gutenberg-2020]
 - filp/whoops (2.15.4) [MIT]
-- follow-redirects (1.15.4) [MIT]
+- follow-redirects (1.15.5) [MIT]
 - form-data (4.0.0) [MIT]
 - fruitcake/php-cors (v1.3.0) [MIT]
 - fsevents (2.3.3) [MIT]
@@ -106,17 +109,18 @@ ________________________________________________________________________________
 - guzzlehttp/psr7 (2.6.2) [MIT]
 - guzzlehttp/uri-template (v1.0.3) [MIT]
 - hamcrest/hamcrest-php (v2.0.1) [BSD-2-Clause]
-- illuminate/collections (v10.41.0) [MIT]
-- illuminate/console (v10.41.0) [MIT]
-- illuminate/contracts (v10.41.0) [MIT]
-- illuminate/database (v10.41.0) [MIT]
-- illuminate/pipeline (v10.41.0) [MIT]
-- illuminate/support (v10.41.0) [MIT]
+- illuminate/collections (v10.45.1) [MIT]
+- illuminate/console (v10.45.1) [MIT]
+- illuminate/contracts (v10.45.1) [MIT]
+- illuminate/database (v10.45.1) [MIT]
+- illuminate/http (v10.45.1) [MIT]
+- illuminate/pipeline (v10.45.1) [MIT]
+- illuminate/support (v10.45.1) [MIT]
 - laravel-vite-plugin (1.0.1) [MIT]
-- laravel/framework (v10.40.0) [MIT, PHP-3.01]
-- laravel/pint (v1.13.8) [MIT]
+- laravel/framework (v10.41.0) [MIT, PHP-3.01]
+- laravel/pint (v1.13.9) [MIT]
 - laravel/prompts (v0.1.15) [MIT]
-- laravel/sail (v1.27.0) [MIT]
+- laravel/sail (v1.27.1) [MIT]
 - laravel/sanctum (v3.3.3) [MIT]
 - laravel/serializable-closure (v1.3.3) [MIT]
 - laravel/tinker (v2.9.0) [MIT]
@@ -133,23 +137,34 @@ ________________________________________________________________________________
 - nanoid (3.3.7) [MIT]
 - nesbot/carbon (2.72.1) [MIT]
 - nette/schema (v1.2.5) [GPL-2.0-only, GPL-3.0-only, BSD-3-Clause, gpl-2.0-ice]
-- nette/utils (v4.0.3) [GPL-3.0-only, GPL-2.0-only, BSD-3-Clause, gpl-2.0-ice]
+- nette/utils (v4.0.4) [BSD-3-Clause, GPL-2.0-only, GPL-3.0-only]
 - nikic/php-parser (v5.0.0) [BSD-2-Clause]
 - nunomaduro/collision (v7.10.0) [MIT]
 - nunomaduro/termwind (v1.15.1) [MIT]
 - phar-io/manifest (2.0.3) [BSD-2-Clause]
 - phar-io/version (3.2.1) [BSD-2-Clause]
+- php-http/discovery (1.19.2) [MIT]
+- php-http/multipart-stream-builder (1.3.0) [MIT]
 - phpoption/phpoption (1.9.2) [Apache-2.0]
 - phpunit/php-code-coverage (10.1.11) [BSD-2-Clause]
 - phpunit/php-file-iterator (4.1.0) [BSD-2-Clause]
 - phpunit/php-invoker (4.0.0) [BSD-2-Clause]
 - phpunit/php-text-template (3.0.1) [BSD-2-Clause]
 - phpunit/php-timer (6.0.0) [BSD-2-Clause]
-- phpunit/phpunit (10.5.7) [BSD-2-Clause]
+- phpunit/phpunit (10.5.8) [BSD-2-Clause]
 - picocolors (1.0.0) [ISC]
 - picomatch (2.3.1) [MIT]
 - postcss (8.4.33) [MIT]
 - proxy-from-env (1.1.0) [MIT]
+- psr-discovery/all (1.0.0) [MIT]
+- psr-discovery/cache-implementations (1.0.0) [MIT]
+- psr-discovery/container-implementations (1.0.0) [MIT]
+- psr-discovery/discovery (1.0.2) [MIT]
+- psr-discovery/event-dispatcher-implementations (1.0.0) [MIT]
+- psr-discovery/http-client-implementations (1.0.0) [MIT]
+- psr-discovery/http-factory-implementations (1.0.1) [MIT]
+- psr-discovery/log-implementations (1.0.0) [MIT]
+- psr/cache (3.0.0) [MIT]
 - psr/clock (1.0.0) [MIT, PHP-3.01, Multi-license: MIT OR PHP-3.01]
 - psr/container (2.0.2) [MIT]
 - psr/event-dispatcher (1.0.0) [MIT]
@@ -162,7 +177,7 @@ ________________________________________________________________________________
 - ralouphie/getallheaders (3.0.3) [MIT]
 - ramsey/collection (2.0.0) [MIT]
 - ramsey/uuid (4.7.5) [MIT]
-- rollup (4.9.4) [Apache-2.0, MIT, ISC]
+- rollup (4.9.6) [Apache-2.0, MIT, ISC]
 - sebastian/cli-parser (2.0.0) [BSD-2-Clause]
 - sebastian/code-unit (2.0.0) [BSD-2-Clause]
 - sebastian/code-unit-reverse-lookup (3.0.0) [BSD-2-Clause]
@@ -214,7 +229,7 @@ ________________________________________________________________________________
 - symfony/yaml (v7.0.0) [MIT]
 - theseer/tokenizer (1.2.2) [BSD-2-Clause]
 - tijsverkoyen/css-to-inline-styles (v2.2.7) [BSD-3-Clause]
-- vite (5.0.11) [MIT, CC0-1.0, ISC, BSD-2-Clause, Apache-2.0]
+- vite (5.0.12) [ISC, MIT, BSD-2-Clause, CC0-1.0, Apache-2.0]
 - vite-plugin-full-reload (1.1.0) [MIT]
 - vlucas/phpdotenv (v5.6.0) [BSD-3-Clause]
 - voku/portable-ascii (2.0.1) [MIT]
@@ -222,7 +237,7 @@ ________________________________________________________________________________
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/aix-ppc64 (0.19.11)
+Package Title: @esbuild/aix-ppc64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -250,95 +265,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/android-arm (0.19.11)
---------------------------------------------------------------------------------
-
-* Declared Licenses *
-MIT
-
-
-Copyright (c) <year> <copyright holders>
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-* Other Licenses *
-BSD-3-Clause
-
-
-Copyright (c) 2018 The Go Authors. All rights reserved. . All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-   1. Redistributions of source code must retain the above copyright notice,
-      this list of conditions and the following disclaimer.
-
-   2. Redistributions in binary form must reproduce the above copyright notice,
-      this list of conditions and the following disclaimer in the documentation
-      and/or other materials provided with the distribution.
-
-   3. Neither the name of the copyright holder nor the names of its
-      contributors may be used to endorse or promote products derived from
-      this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
---------------------------------------------------------------------------------
-Package Title: @esbuild/android-arm64 (0.19.11)
---------------------------------------------------------------------------------
-
-* Declared Licenses *
-MIT
-
-
-Copyright (c) <year> <copyright holders>
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
---------------------------------------------------------------------------------
-Package Title: @esbuild/android-x64 (0.19.11)
+Package Title: @esbuild/android-arm (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -398,7 +325,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/darwin-arm64 (0.19.11)
+Package Title: @esbuild/android-arm64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -426,7 +353,67 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/darwin-x64 (0.19.11)
+Package Title: @esbuild/android-x64 (0.19.12)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (c) <year> <copyright holders>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+* Other Licenses *
+BSD-3-Clause
+
+
+Copyright (c) 2018 The Go Authors. All rights reserved. . All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+      and/or other materials provided with the distribution.
+
+   3. Neither the name of the copyright holder nor the names of its
+      contributors may be used to endorse or promote products derived from
+      this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--------------------------------------------------------------------------------
+Package Title: @esbuild/darwin-arm64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -454,7 +441,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/freebsd-arm64 (0.19.11)
+Package Title: @esbuild/darwin-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -482,7 +469,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/freebsd-x64 (0.19.11)
+Package Title: @esbuild/freebsd-arm64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -510,7 +497,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-arm (0.19.11)
+Package Title: @esbuild/freebsd-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -538,7 +525,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-arm64 (0.19.11)
+Package Title: @esbuild/linux-arm (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -566,7 +553,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-ia32 (0.19.11)
+Package Title: @esbuild/linux-arm64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -594,7 +581,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-loong64 (0.19.11)
+Package Title: @esbuild/linux-ia32 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -622,7 +609,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-mips64el (0.19.11)
+Package Title: @esbuild/linux-loong64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -650,7 +637,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-ppc64 (0.19.11)
+Package Title: @esbuild/linux-mips64el (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -678,7 +665,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-riscv64 (0.19.11)
+Package Title: @esbuild/linux-ppc64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -706,7 +693,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-s390x (0.19.11)
+Package Title: @esbuild/linux-riscv64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -734,7 +721,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/linux-x64 (0.19.11)
+Package Title: @esbuild/linux-s390x (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -762,7 +749,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/netbsd-x64 (0.19.11)
+Package Title: @esbuild/linux-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -790,7 +777,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/openbsd-x64 (0.19.11)
+Package Title: @esbuild/netbsd-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -818,7 +805,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/sunos-x64 (0.19.11)
+Package Title: @esbuild/openbsd-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -846,7 +833,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/win32-arm64 (0.19.11)
+Package Title: @esbuild/sunos-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -874,7 +861,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/win32-ia32 (0.19.11)
+Package Title: @esbuild/win32-arm64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -902,7 +889,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @esbuild/win32-x64 (0.19.11)
+Package Title: @esbuild/win32-ia32 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -930,7 +917,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-android-arm-eabi (4.9.4)
+Package Title: @esbuild/win32-x64 (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -958,7 +945,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-android-arm64 (4.9.4)
+Package Title: @rollup/rollup-android-arm-eabi (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -986,7 +973,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-darwin-arm64 (4.9.4)
+Package Title: @rollup/rollup-android-arm64 (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1014,7 +1001,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-darwin-x64 (4.9.4)
+Package Title: @rollup/rollup-darwin-arm64 (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1042,7 +1029,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-arm-gnueabihf (4.9.4)
+Package Title: @rollup/rollup-darwin-x64 (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1070,7 +1057,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-arm64-gnu (4.9.4)
+Package Title: @rollup/rollup-linux-arm-gnueabihf (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1098,7 +1085,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-arm64-musl (4.9.4)
+Package Title: @rollup/rollup-linux-arm64-gnu (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1126,7 +1113,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-riscv64-gnu (4.9.4)
+Package Title: @rollup/rollup-linux-arm64-musl (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1154,7 +1141,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-x64-gnu (4.9.4)
+Package Title: @rollup/rollup-linux-riscv64-gnu (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1182,7 +1169,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-linux-x64-musl (4.9.4)
+Package Title: @rollup/rollup-linux-x64-gnu (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1210,7 +1197,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-win32-arm64-msvc (4.9.4)
+Package Title: @rollup/rollup-linux-x64-musl (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1238,7 +1225,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-win32-ia32-msvc (4.9.4)
+Package Title: @rollup/rollup-win32-arm64-msvc (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1266,7 +1253,35 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: @rollup/rollup-win32-x64-msvc (4.9.4)
+Package Title: @rollup/rollup-win32-ia32-msvc (4.9.6)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (c) <year> <copyright holders>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+Package Title: @rollup/rollup-win32-x64-msvc (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1358,7 +1373,71 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: axios (1.6.5)
+Package Title: auth0/auth0-php (8.11.1)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2022 Auth0, Inc. <support@auth0.com> (https://auth0.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: auth0/login (7.12.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+The MIT License (MIT)
+
+Copyright (c) 2023 Auth0, Inc. <support@auth0.com> (https://auth0.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: axios (1.6.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1464,6 +1543,36 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+Package Title: composer/semver (3.4.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (C) 2015 Composer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 
 --------------------------------------------------------------------------------
@@ -1645,7 +1754,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: esbuild (0.19.11)
+Package Title: esbuild (0.19.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -1903,7 +2012,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: follow-redirects (1.15.4)
+Package Title: follow-redirects (1.15.5)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2233,7 +2342,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/collections (v10.41.0)
+Package Title: illuminate/collections (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2265,7 +2374,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/console (v10.41.0)
+Package Title: illuminate/console (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2297,7 +2406,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/contracts (v10.41.0)
+Package Title: illuminate/contracts (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2329,7 +2438,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/database (v10.41.0)
+Package Title: illuminate/database (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2361,7 +2470,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/pipeline (v10.41.0)
+Package Title: illuminate/http (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2393,7 +2502,39 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: illuminate/support (v10.41.0)
+Package Title: illuminate/pipeline (v10.45.1)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+The MIT License (MIT)
+
+Copyright (c) Taylor Otwell
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: illuminate/support (v10.45.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2457,7 +2598,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: laravel/framework (v10.40.0)
+Package Title: laravel/framework (v10.41.0)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2510,7 +2651,7 @@ PHP includes the Zend Engine, freely available at <http://www.zend.com>.
 
 
 --------------------------------------------------------------------------------
-Package Title: laravel/pint (v1.13.8)
+Package Title: laravel/pint (v1.13.9)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -2574,7 +2715,7 @@ THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: laravel/sail (v1.27.0)
+Package Title: laravel/sail (v1.27.1)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -3198,7 +3339,7 @@ do so.
 
 
 --------------------------------------------------------------------------------
-Package Title: nette/utils (v4.0.3)
+Package Title: nette/utils (v4.0.4)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -3206,21 +3347,7 @@ No licenses found
 
 
 * Other Licenses *
-GPL-3.0-only, GPL-2.0-only, BSD-3-Clause, gpl-2.0-ice
-
-* GPL-3.0-only *
-
-Copyright (C) <year> <name of author>
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
-
-* GPL-2.0-only *
-
-Copyright (C) yyyy name of author
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+BSD-3-Clause, GPL-2.0-only, GPL-3.0-only
 
 * BSD-3-Clause *
 
@@ -3251,60 +3378,19 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-* gpl-2.0-ice *
+* GPL-2.0-only *
 
-This copy of Ice is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License version 2 as
-published by the Free Software Foundation.
+Copyright (C) yyyy name of author
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-Ice is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
-details.
+* GPL-3.0-only *
 
-You should have received a copy of the GNU General Public License version
-2 along with this program; if not, see http://www.gnu.org/licenses.
-
-Linking Ice statically or dynamically with other software (such as a 
-library, module or application) is making a combined work based on Ice. 
-Thus, the terms and conditions of the GNU General Public License version
-2 cover this combined work.
-
-If such software can only be used together with Ice, then not only the 
-combined work but the software itself is a work derived from Ice and as
-such shall be licensed under the terms of the GNU General Public License 
-version 2. This includes the situation where Ice is only being used 
-through an abstraction layer.
-
-As a special exception to the above, ZeroC grants to the contributors for
-the following projects the permission to license their Ice-based software 
-under the terms of the GNU Lesser General Public License (LGPL) version 
-2.1 or of the BSD license:
-
- - Orca Robotics (http://orca-robotics.sourceforge.net)
- 
- - Mumble (http://mumble.sourceforge.net)
-
-This exception does not extend to the parts of Ice used by these 
-projects, or to any other derived work: as a whole, any work based on Ice
-shall be licensed under the terms and conditions of the GNU General
-Public License version 2.
-
-You may also combine Ice with any software not derived from Ice, provided
-the license of such software is compatible with the GNU General Public 
-License version 2. In addition, as a special exception, ZeroC grants you
-permission to combine Ice with:
- 
- - the OpenSSL library, or with a modified version of the OpenSSL library
-   that uses the same license as OpenSSL
-
- - any library not derived from Ice and licensed under the terms of
-   the Apache License, version 2.0 
-   (http://www.apache.org/licenses/LICENSE-2.0.html) 
-
-If you modify this copy of Ice, you may extend any of the exceptions 
-provided above to your version of Ice, but you are not obligated to 
-do so.
+Copyright (C) <year> <name of author>
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
 
 
 --------------------------------------------------------------------------------
@@ -3468,6 +3554,64 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--------------------------------------------------------------------------------
+Package Title: php-http/discovery (1.19.2)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (c) 2015-2016 PHP HTTP Team <team@php-http.org>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+Package Title: php-http/multipart-stream-builder (1.3.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (c) 2015 PHP HTTP Team <team@php-http.org>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
@@ -3847,7 +3991,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 --------------------------------------------------------------------------------
-Package Title: phpunit/phpunit (10.5.7)
+Package Title: phpunit/phpunit (10.5.8)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -3997,6 +4141,291 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/all (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/cache-implementations (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/container-implementations (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/discovery (1.0.2)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/event-dispatcher-implementations (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/http-client-implementations (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/http-factory-implementations (1.0.1)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr-discovery/log-implementations (1.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: psr/cache (3.0.0)
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+
+Copyright (c) 2015 PHP Framework Interoperability Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
@@ -4445,7 +4874,7 @@ SOFTWARE.
 
 
 --------------------------------------------------------------------------------
-Package Title: rollup (4.9.4)
+Package Title: rollup (4.9.6)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
@@ -6743,11 +7172,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 --------------------------------------------------------------------------------
-Package Title: vite (5.0.11)
+Package Title: vite (5.0.12)
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
-MIT, CC0-1.0, ISC, BSD-2-Clause, Apache-2.0
+ISC, MIT, BSD-2-Clause, CC0-1.0, Apache-2.0
+
+* ISC *
+
+Copyright (c) 2019 present, Yuxi (Evan) You and Vite contributors
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 * MIT *
 
@@ -6769,36 +7204,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-* CC0-1.0 *
-
-<<endOptional>>
-CC0 1.0 Universal<<endOptional>>
-Statement of Purpose
-The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
-Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
-For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
-   1. Copyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
-      i. the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
-      ii. moral rights retained by the original author(s) and/or performer(s);
-      iii. publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
-      iv. rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
-      v. rights protecting the extraction, dissemination, use and reuse of data in a Work;
-      vi. database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
-      vii. other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
-   2. Waiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
-   3. Public License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
-   4. Limitations and Disclaimers.
-      a. No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
-      b. Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
-      c. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
-      d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
-
-* ISC *
-
-Copyright (c) 2019 present, Yuxi (Evan) You and Vite contributors
-Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
-THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 * BSD-2-Clause *
 
@@ -6825,6 +7230,30 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+* CC0-1.0 *
+
+<<endOptional>>
+CC0 1.0 Universal<<endOptional>>
+Statement of Purpose
+The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
+Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
+For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
+   1. Copyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
+      i. the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
+      ii. moral rights retained by the original author(s) and/or performer(s);
+      iii. publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
+      iv. rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
+      v. rights protecting the extraction, dissemination, use and reuse of data in a Work;
+      vi. database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
+      vii. other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
+   2. Waiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
+   3. Public License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
+   4. Limitations and Disclaimers.
+      a. No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
+      b. Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
+      c. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
+      d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
 
 * Apache-2.0 *
 
@@ -16000,6 +16429,29 @@ For these and/or other purposes and motivations, and without any expectation of 
 
 * MIT *
 
+Copyright (C) 2015 Composer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+* MIT *
+
 Copyright (C) 2019 Lars Moelleken
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -16391,6 +16843,72 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+
+* MIT *
+
+Copyright (c) 2015 PHP Framework Interoperability Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+* MIT *
+
+Copyright (c) 2015 PHP HTTP Team <team@php-http.org>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+* MIT *
+
+Copyright (c) 2015-2016 PHP HTTP Team <team@php-http.org>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 * MIT *
 
@@ -16968,7 +17486,57 @@ SOFTWARE.
 
 MIT License
 
+Copyright (c) 2022 Auth0, Inc. <support@auth0.com> (https://auth0.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+* MIT *
+
+MIT License
+
 Copyright (c) 2023 Carbon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+* MIT *
+
+MIT License
+
+Copyright (c) 2023 Evan Sims
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -17398,6 +17966,31 @@ THE SOFTWARE.
 
 The MIT License (MIT)
 
+Copyright (c) 2023 Auth0, Inc. <support@auth0.com> (https://auth0.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+* MIT *
+
+The MIT License (MIT)
+
 Copyright (c) Facade <info@facade.company>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -17760,4 +18353,4 @@ No license text available
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Report Generated by FOSSA on 2024-1-18
+Report Generated by FOSSA on 2024-2-26

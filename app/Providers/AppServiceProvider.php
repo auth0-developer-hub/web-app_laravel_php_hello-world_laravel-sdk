@@ -4,7 +4,9 @@ namespace App\Providers;
 
 use App\Services\MessageService;
 use App\Services\MessageServiceInterface;
+use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
+use Illuminate\View\View as ViewObject;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -21,6 +23,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        View::composer('*', function (ViewObject $view) {
+            $view->with('isAuthenticated', !auth()->guest());
+        });
     }
 }
