@@ -15,6 +15,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
+        $this->app->when(MessageService::class)
+            ->needs('$apiServerUrl')
+            ->give(config('message-server.api_server_url'));
         $this->app->singleton(MessageServiceInterface::class, MessageService::class);
     }
 

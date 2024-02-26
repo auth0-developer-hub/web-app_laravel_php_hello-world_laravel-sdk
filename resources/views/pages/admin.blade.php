@@ -6,7 +6,9 @@
     <div class="content__body">
         <p id="page-description">
 
-            <span>This page retrieves an <strong>admin message</strong>.</span>
+            <span>This page retrieves an <strong>admin message</strong> from
+                an external API.
+            </span>
             <br>
             <br>
             <span>
@@ -15,7 +17,7 @@
                 </strong>
             </span>
         </p>
-        <x-code-snippet title="Admin Message" code="{{ json_encode($message->toArray(), \JSON_PRETTY_PRINT) }}" />
+        <x-code-snippet title="Admin Message" code="{{ json_encode($message, \JSON_PRETTY_PRINT) }}" />
     </div>
 </div>
 @endsection
